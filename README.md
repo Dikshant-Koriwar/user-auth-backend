@@ -31,14 +31,13 @@ project-root/
 │   └── sendEmail.js
 │
 
-├── .gitignore  
-# Files/folders to ignore by Git
-├── index.js    
-# Entry point of the server
-├── package.json  
-# NPM dependencies and scripts
-├── package-lock.json
-# Exact version tree of dependencies
+├── .gitignore  # Files/folders to ignore by Git
+
+├── index.js   # Entry point of the server
+
+├── package.json  # NPM dependencies and script
+
+├── package-lock.json# Exact version tree of dependencies
 └── README.md      
 # Project documentation
 ```
