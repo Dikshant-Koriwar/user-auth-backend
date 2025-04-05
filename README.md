@@ -6,41 +6,6 @@ A complete and secure user authentication API built using **Node.js**, **Express
 
 ---
 
-## 📁 Folder Structure
-
-```
-project-root/
-│
-├── controllers/            # Logic for handling requests (e.g. register, login)
-│   └── userController.js
-<br>
-│
-├── middlewarea/            # Middleware (e.g. auth, error handling)
-│   └── authMiddleware.js
-│
-<br>
-├── modals/                 # Mongoose schemas and models
-│   └── User.modal.js
-│
-├── routes/                 # API route definitions
-│   └── userRoutes.js
-│
-<br>
-├── utils/                  # Utility functions (e.g. email sending)
-│   └── sendEmail.js
-│
-<br>
-├── .gitignore              # Files/folders to ignore by Git
-v
-├── index.js                # Entry point of the server
-<br>
-├── package.json            # NPM dependencies and scripts
-<br>
-├── package-lock.json       # Exact version tree of dependencies
-<br>
-└── README.md               # Project documentation
-<br>
-```
 
 ---
 
